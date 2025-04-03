@@ -38,7 +38,7 @@
 | **站点名称**         | **支持版本**       | **是否免费** | **独特功能**               | **速度与稳定性**     |
 |----------------------|-------------------|--------------|---------------------------|---------------------|
 | [snakegpt.work](https://snakegpt.work)    | GPT-4、Claude3    | 免费5次          | 支持 MidJourney 绘图       | ⭐⭐⭐⭐⭐              |
-| [gptcat.net](https://gptcat.net)         | GPT-4、GPT-o1-pro | 免费10次          | 支持 GPT-o1-pro 模型，高级语音交互 | ⭐⭐⭐⭐⭐              |
+| [gptcat.cc](https://gptcat.cc)         | GPT-4、GPT-o1-pro | 免费10次          | 支持 GPT-o1-pro 模型，高级语音交互 | ⭐⭐⭐⭐⭐              |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)     | GPT-4、GPT-o1     | 免费10次          | 提供 API 接口，开发者友好    | ⭐⭐⭐⭐⭐              |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5           | 无免费          | 新手友好，中文界面优化       | ⭐⭐⭐⭐               |
 
