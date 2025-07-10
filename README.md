@@ -2,7 +2,7 @@
 
 ### **详细介绍如何在国内快速访问 ChatGPT 中文版，并推荐最新最全的镜像网站资源**
 
-**更新时间： 2025/07/09**
+**更新时间： 2025/07/10**
 
 本项目为您提供全面的 **ChatGPT 中文版镜像使用指南**，精选国内最新可用的镜像网站资源，支持 GPT-4、Claude 等高级功能，帮助您轻松实现智能 AI 交互，无需翻墙即可流畅使用！以下内容包括镜像站点推荐、功能对比、快速上手教程和常见问题解答。
 
@@ -38,13 +38,13 @@
 | **站点名称**         | **支持版本**       | **是否免费** | **独特功能**               | **速度与稳定性**     |
 |----------------------|-------------------|--------------|---------------------------|---------------------|
 | [snakegpt.vip](https://snakegpt.vip)    | GPT-4、Claude3    | 免费5次          | 支持 MidJourney 绘图       | ⭐⭐⭐⭐⭐              |
-| [chat2.gptcat.cc](https://chat2.gptcat.cc)         | GPT-4、GPT-o1-pro | 免费10次          | 支持 GPT-o1-pro 模型，高级语音交互 | ⭐⭐⭐⭐⭐              |
+| [gptcat.cc](https://gptcat.cc)         | GPT-4、GPT-o1-pro | 免费10次          | 支持 GPT-o1-pro 模型，高级语音交互 | ⭐⭐⭐⭐⭐              |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)     | GPT-4、GPT-o1     | 免费10次          | 提供 API 接口，开发者友好    | ⭐⭐⭐⭐⭐              |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5           | 无免费          | 新手友好，中文界面优化       | ⭐⭐⭐⭐               |
 
 ### **推荐使用场景：**
 1. **需要绘图功能**：选择 `snakegpt.vip`，支持 MidJourney 绘图。
-2. **最新模型体验**：选择 `chat2.gptcat.cc`，支持最新 GPT-o1-pro 模型和高级功能。
+2. **最新模型体验**：选择 `gptcat.cc`，支持最新 GPT-o1-pro 模型和高级功能。
 3. **技术开发者**：选择 `ai-panda.xyz`，提供 API 调用支持。
 4. **新手用户**：选择 `gptdog.online`，界面友好，操作简单。
 
@@ -68,10 +68,10 @@
 
 ## **4. 如何快速使用 ChatGPT 中文镜像站？** <a id="section4"></a>
 
-以下以 [chat2.gptcat.cc](https://chat2.gptcat.cc) 为例，展示如何快速开始使用：
+以下以 [gptcat.cc](https://gptcat.cc) 为例，展示如何快速开始使用：
 
 ### **步骤 1：打开镜像站点**
-- 点击访问：[chat2.gptcat.cc](https://chat2.gptcat.cc)，无需额外工具。
+- 点击访问：[gptcat.cc](https://gptcat.cc)，无需额外工具。
 
 ### **步骤 2：注册账号或免注册直接使用**
 - **注册方式**：输入邮箱和密码，完成快速注册。
@@ -121,7 +121,7 @@ ChatGPT 广泛应用于学习、工作、娱乐等场景，以下是常见用法
 
 点击以下链接，即刻开始体验：
 - [snakegpt.vip](https://snakegpt.vip)
-- [chat2.gptcat.cc](https://chat2.gptcat.cc)
+- [gptcat.cc](https://gptcat.cc)
 - [ai-panda.xyz](https://ai-panda.xyz)
 - [gptdog.online](https://gptdog.online)
 
